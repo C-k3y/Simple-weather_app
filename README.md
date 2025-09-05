@@ -47,7 +47,6 @@ Potential improvements could include:
 - Temperature unit conversion (°C/°F)
 - More detailed weather information
 - Weather history tracking
-- Dark/light theme toggle
 
 ## License
 
