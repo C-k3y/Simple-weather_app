@@ -9,7 +9,7 @@ A simple, responsive weather application that provides real-time weather informa
 - **Dynamic Weather Icons**: Weather icons change based on current conditions (clouds, clear sky, rain, drizzle, mist)
 - **Error Handling**: Displays user-friendly error messages for invalid city names
 - **Responsive Design**: Clean and modern UI that works across different screen sizes
-
+- **Geolocation-based weather
 ## Screenshots
 
 The app displays:
@@ -43,7 +43,6 @@ The app displays:
 
 Potential improvements could include:
 - 5-day weather forecast
-- Geolocation-based weather
 - Temperature unit conversion (°C/°F)
 - More detailed weather information
 - Weather history tracking
